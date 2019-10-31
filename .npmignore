@@ -2,4 +2,5 @@ src/
 index.js
 package-lock.json
 .env
+.env-example
 .vscode/
