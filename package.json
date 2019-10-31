@@ -16,6 +16,11 @@
   ],
   "author": "Rob Da Corte",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/robertdacorte/ing-connect"
+  },
+  "homepage": "https://github.com/robertdacorte/ing-connect#readme",
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
