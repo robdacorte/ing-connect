@@ -1,5 +1,4 @@
 # ING-CONNECT
-___
 
 This package is a SDK no official to connect to ING Bank API with Node.js.
 
